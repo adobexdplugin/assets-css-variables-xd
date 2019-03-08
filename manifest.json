@@ -1,0 +1,20 @@
+{
+  "name" : "assetsCssVariables",
+  "host" : {
+    "app" : "XD",
+    "minVersion" : "15.0.0"
+  },
+  "description" : "Import CSS variables to Assets panel. Export CSS variables from Assets panel.",
+  "id" : "fad584eb",
+  "icons" : [ {
+    "path" : "images/icon.png",
+    "width" : 96,
+    "height" : 96
+  } ],
+  "uiEntryPoints" : [ {
+    "label" : "Assets CSS Variables",
+    "type" : "menu",
+    "commandId" : "myPluginCommand"
+  } ],
+  "version" : "1.0.0"
+}
